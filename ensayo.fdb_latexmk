@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1701905464 "/Users/alfredomonroy/pruebas/research_prop/ensayo.tex" "ensayo.pdf" "ensayo" 1701905465 0
-  "/Users/alfredomonroy/pruebas/research_prop/ensayo.tex" 1701905464 2326 0809d988bc0af085347d519f25ef29bf ""
+["pdflatex"] 1701906093 "/Users/alfredomonroy/pruebas/research_prop/ensayo.tex" "ensayo.pdf" "ensayo" 1701906094 0
+  "/Users/alfredomonroy/pruebas/research_prop/ensayo.tex" 1701906092 2335 510698a995c6fcf3b5d644d0aefdea38 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm" 1136768653 1536 73da8e8f1d2a4c957d51ca133585586b ""
@@ -26,8 +26,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701896073 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701896008 7883455 0bf9719f63f838f6bf220004bf54d090 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "ensayo.aux" 1701905465 534 65ccb8cc0ee0901e74ec51ddcbeee8a1 "pdflatex"
-  "ensayo.tex" 1701905464 2326 0809d988bc0af085347d519f25ef29bf ""
+  "ensayo.aux" 1701906094 534 2cead27b7be7653943b9be8358e79574 "pdflatex"
+  "ensayo.tex" 1701906092 2335 510698a995c6fcf3b5d644d0aefdea38 ""
   (generated)
   "ensayo.aux"
   "ensayo.log"
